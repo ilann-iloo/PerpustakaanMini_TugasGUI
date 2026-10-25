@@ -5,8 +5,6 @@
 
 **Perpustakaan Mini** adalah aplikasi desktop sederhana berbasis Java yang dibuat menggunakan Java Swing. Aplikasi ini digunakan untuk mengelola daftar buku, melakukan pencarian berdasarkan judul, memfilter buku berdasarkan status, serta mengubah status buku menjadi tersedia atau dipinjam.
 
-Aplikasi ini memiliki antarmuka grafis (GUI) dengan kombinasi warna pastel agar tampilan lebih menarik dan mudah digunakan. Program ini dikembangkan sebagai penerapan materi Pemrograman Berorientasi Objek (PBO), khususnya penggunaan komponen GUI, Layout Manager, dan Event Handling pada Java.
-
 ## ✨ Fitur Aplikasi
 
 - **Tambah Buku** — Menambahkan buku baru dengan memasukkan judul buku dan nama penulis.
@@ -15,7 +13,6 @@ Aplikasi ini memiliki antarmuka grafis (GUI) dengan kombinasi warna pastel agar 
 - **Pinjam Buku** — Mengubah status buku dari tersedia menjadi dipinjam.
 - **Kembalikan Buku** — Mengubah status buku dari dipinjam menjadi tersedia.
 - **Informasi Jumlah Buku** — Menampilkan jumlah seluruh buku dan jumlah buku yang sedang ditampilkan.
-- **Tema Pastel** — Menggunakan kombinasi warna cream, pink, lavender, mint, dan baby blue.
 
 ## 🖥️ Dokumentasi Tampilan
 
